@@ -1,7 +1,7 @@
 
  langs:
    -
-     lang: de
+     lang:
      title: Auf Deutsch
 #   -
 #     lang: en
@@ -14,4 +14,4 @@
 #     title: en español
 #   -
 #     lang: pl
-#     title: po polsKU
+#     title: po polsku
